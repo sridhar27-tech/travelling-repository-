@@ -1,7 +1,7 @@
 
 # 🏍️ NS400z Indian Odyssey
 
-![Ganger]()
+![Ganger](ganger.jpg)
 
 **"NS400z - The Relentless Road Dominator"**  
 *My Bajaj Pulsar NS400z — Blazing across India, one powerful kilometer at a time.*
