@@ -99,7 +99,7 @@ Bangalore offers a rich variety of food:
 - It has the highest number of **startups** in India after Silicon Valley.
 - The city has a large **pub culture** – often called the “Pub Capital of India”.
 - Famous for its **mild climate** even during summer.
-
+- Iam a Fan of this City 
 ---
 
 ## Sample Python Code
