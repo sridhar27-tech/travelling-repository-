@@ -33,7 +33,7 @@
 
 ## 🌎 About Me
 
-- ✈️ **Travel Enthusiast** — Always on the move
+- ✈️ **Travel Enthusiast** — Always on the move to explore new Destinations
 - 🏍️ **Bike Rider** — Nothing beats the freedom of two wheels
 - 🚗 **Road Tripper** — Long drives and scenic routes are my therapy
 - ✈️ **Frequent Flyer** — Collecting miles and memories
@@ -45,7 +45,7 @@
 ## 🛤️ My Travel Style
 
 I love exploring new places whether it's:
-- Twisting mountain roads on my bike 🏍️
+- Twisting mountain roads on my bike and Ending the Imaginary pain🏍️
 - Long highway drives with good music 🚗
 - Spontaneous flights to unknown destinations ✈️
 
