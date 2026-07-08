@@ -92,5 +92,5 @@ Every trip fuels my creativity and code.
 ## 📍 Current Status
 
 ```bash
-# Currently: On the road somewhere
+# Currently: On the road somewhere and exploring Somewhere and creating enthusiastic memories
 # Mode: Exploring | Coding | Riding
