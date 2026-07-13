@@ -6,7 +6,7 @@
    Built with ❤️, fuel, and endless wanderlust
    ===============================================
 -->
-![Panther - KTM Adventure 390](panther2jpg)
+![Panther - KTM Adventure 390](panther2323jpg)
 <div align="center">
 
   <h1>Hi there, I'm Sridhar.M 👋</h1>
