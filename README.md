@@ -6,8 +6,7 @@
    Built with ❤️, fuel, and endless wanderlust
    ===============================================
 -->
-
-
+![Panther - KTM Adventure 390](panther1.jpg)
 <div align="center">
 
   <h1>Hi there, I'm Sridhar.M 👋</h1>
@@ -20,7 +19,7 @@
     <strong>I travel a lot — by bike, car, and airplane.</strong><br>
     Chasing sunsets, new roads, and fresh perspectives.
   </p>
-![Panther - KTM Adventure 390](panther1.jpg)
+
   <!-- Social Badges -->
   <p>
     <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
